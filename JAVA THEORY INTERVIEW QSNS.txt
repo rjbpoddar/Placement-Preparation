@@ -1,0 +1,35 @@
+1.	Significance of public static void main (strings args[])
+2.	Relationship between class and object
+3.	Basic principles of object oriented programming language
+4.	Short note on JVM, JRE, JDK
+5.	Why is Java platform independent?
+6.	What is the use of static keyword in java? 
+7.	static nested class vs non static nested class
+8.	Dynamic method dispatch (short note)
+9.	Method overloading vs method overriding
+10.	Inheritance vs aggregation
+11.	Types of inheritance
+12.	What is upcasting?
+13.	Abstract class vs interface
+14.	What is package? How we create a user defined package?
+15.	What is the concept of static import in java?
+16.	Error vs exception
+17.	Checked vs unchecked exception
+18.	Use of try, catch, throw, throws, finally.
+19.	final vs finally vs finalize
+20.	Use of super keyword
+21.	Scanner vs BufferedReader class
+22.	Significance of the line: String class object are immutable in nature. 
+23.	How we can achieve mutable String in java
+24.	String buffer vs string builder
+25.	What is thread?
+26.	Thread life cycle,
+27.	Sleep vs wait method
+28.	Notify and notify all
+29.	Synchronisation block in java
+30.	How we can achieve multiple thread in java? Which approach is better?
+31.	Applet vs application
+32.	Describe Applet tag 
+33.	Applet lifecycle
+34.	What is a constructor, use of a constructor, constructor overloading?
+35.	Method vs constructor
