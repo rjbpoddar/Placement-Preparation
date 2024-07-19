@@ -34,6 +34,7 @@ public class Q1_Swap{
             // a = (10+12)-(b=10);
             // a = 22-(10)
             // a = 12 b = 10
+            in.close();
 
     }
     public void swap(int a , int b){

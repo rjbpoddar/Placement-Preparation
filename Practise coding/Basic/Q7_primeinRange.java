@@ -12,6 +12,7 @@ public class Q7_primeinRange {
                 System.out.print(i+" ");
             }
         }
+        in.close();
     }
 
     private static boolean isPrime(int i) {

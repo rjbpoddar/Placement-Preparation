@@ -11,6 +11,7 @@ public class Q16_RandomGenerate {
         System.out.println("Enter the length of the random sring : ");
         int n = in.nextInt();
         System.out.println(randomString(n));
+        in.close();
     }
 
     private static String randomString(int n) {

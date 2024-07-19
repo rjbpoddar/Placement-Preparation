@@ -6,6 +6,7 @@ public class Q10_Armstrong {
         System.out.println("Enter a number : ");
         int n = in.nextInt();
         System.out.println(isArmstrong(n));
+        in.close();
     }
     static boolean isArmstrong(int n){
         int temp = n;

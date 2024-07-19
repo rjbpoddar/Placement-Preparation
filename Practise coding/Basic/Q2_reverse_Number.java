@@ -15,6 +15,7 @@ public class Q2_reverse_Number {
         System.out.println(rev);
         System.out.println("Reverese = "+rev(x));
         rev2(x);
+        in.close();
     }
     static int rev(int n){
         int digit = (int)(Math.log10(n))+1;

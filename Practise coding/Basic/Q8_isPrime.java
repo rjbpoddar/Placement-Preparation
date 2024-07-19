@@ -6,6 +6,7 @@ public class Q8_isPrime {
         System.out.println("Enter a number : ");
         int n = in.nextInt();
         System.out.println(isPrime(n));
+        in.close();
     }
 
     private static boolean isPrime(int n) {

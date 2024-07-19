@@ -6,7 +6,7 @@ public class Q5_num_Palindrome {
         System.out.println("Enter a number : ");
         int a = in.nextInt();
         System.out.println(Palindrome(a));
-
+        in.close();
     }
     static boolean Palindrome(int n){
         int temp = n;

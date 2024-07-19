@@ -7,6 +7,7 @@ public class Q14_SumOFDigit {
         int n = in.nextInt();
         System.out.println("The summ of the digit of"+n+" is "+Sum1(n));
         System.out.println("The summ of the digit of"+n+" is "+Sum2(n));
+        in.close();
     }
     static int Sum1(int n){
         int s=0;

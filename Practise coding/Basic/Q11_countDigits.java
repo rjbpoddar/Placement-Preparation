@@ -6,6 +6,7 @@ public class Q11_countDigits {
         System.out.println("Enter a number : ");
         int n = in.nextInt();
         System.out.println("Digits present in "+n+ " are : = "+findDigits(n));
+        in.close();
     }
 
     private static int findDigits(int n) {

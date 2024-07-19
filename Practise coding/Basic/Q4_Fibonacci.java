@@ -16,6 +16,7 @@ public class Q4_Fibonacci {
         }
         System.out.println();
         System.out.println(fibo_rev(n));  
+        in.close();
     }
 
     private static int fibo_rev(int n){

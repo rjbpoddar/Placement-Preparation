@@ -7,6 +7,7 @@ public class Q3_reverse_String {
         String s = in.nextLine();
         System.out.println("REVERSE = "+revString(s));
         System.out.println("REVERSE = "+revStringRecursion(s));
+        in.close();
     }
     static String revStringRecursion(String s){
         int length = s.length()-1;

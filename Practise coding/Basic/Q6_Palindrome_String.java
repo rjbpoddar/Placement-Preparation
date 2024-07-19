@@ -5,6 +5,7 @@ public class Q6_Palindrome_String {
         System.out.println("Enter the word you want to check : ");
         String s = in.nextLine();
         System.out.println(isPalindrome(s));
+        in.close();
     }
     static boolean isPalindrome(String s){
         for(int i=0;i<s.length()/2;i++){

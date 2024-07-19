@@ -7,6 +7,7 @@ public class Q9_Factorial {
         int n = in.nextInt();
         System.out.println("Factorial = "+Fact(n));
         System.out.println("Factorial = "+Fact1(n));
+        in.close();
     }
 
     private static int Fact1(int n) {

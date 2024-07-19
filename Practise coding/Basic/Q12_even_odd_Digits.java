@@ -19,5 +19,6 @@ public class Q12_even_odd_Digits {
         }
         System.out.println("Even digits = "+even_Digits);
         System.out.println("Odd digits = "+odd_digits);
+        in.close();
     }
 }

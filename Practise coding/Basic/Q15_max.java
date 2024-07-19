@@ -19,5 +19,6 @@ public class Q15_max {
         else{
             System.out.println("All are equal");
         }
+        in.close();
     }
 }

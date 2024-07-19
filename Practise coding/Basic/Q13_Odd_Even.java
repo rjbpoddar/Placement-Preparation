@@ -12,7 +12,7 @@ public class Q13_Odd_Even {
             System.out.println("the number is even");
         }
            
-        
+        in.close();
     }
 
     private static boolean isOdd(int n) {
